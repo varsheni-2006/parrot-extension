@@ -10,32 +10,7 @@ It analyzes text from any webpage and generates short vocabulary quizzes using A
 ✅ Dynamic word selection and quiz generation
 ✅ Simple REST API for text processing
 ✅ Ready for Docker deployment
-
-📁 Project Structure
-GenAI-Hackathon/
-│
-├── server/
-│   ├── app.py                # Flask backend entry point
-│   ├── test_api.py           # Test file for API
-│   ├── requirements.txt      # Python dependencies
-│   ├── Dockerfile            # Docker setup (optional)
-│   └── __init__.py
-│
-├── text_processing/
-│   ├── __init__.py
-│   ├── find_word.py          # Finds random word from text
-│   └── generate_quiz.py      # Creates quiz options
-│
-├── extension/
-│   ├── manifest.json         # Chrome extension manifest
-│   ├── popup.html            # Extension popup UI
-│   ├── popup.js              # Popup logic
-│   ├── content.js            # Injected script on pages
-│   ├── background.js         # Handles background tasks
-│   ├── parrot.png            # Extension icon
-│   └── styles.css            # Styling for popup
-│
-└── README.md                 # This file 
+ 
 
 🧩 1️⃣ Backend Setup (Flask Server)
 📦 Step 1 — Create a Virtual Environment
