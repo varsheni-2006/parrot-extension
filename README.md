@@ -35,7 +35,7 @@ GenAI-Hackathon/
 │   ├── parrot.png            # Extension icon
 │   └── styles.css            # Styling for popup
 │
-└── README.md                 # This file 😄
+└── README.md                 # This file 
 
 🧩 1️⃣ Backend Setup (Flask Server)
 📦 Step 1 — Create a Virtual Environment
